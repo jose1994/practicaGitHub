@@ -22,7 +22,7 @@ public class Main {
                   double  sum= 0;
                   //int datoInt=0;
 
-                  System.out.println("programa que calcula los terminos de la serie");
+                  System.out.println("programa que calcula valores de una serie");
                   do{
                             // n= Leer.datoInt();
                   }
@@ -38,6 +38,6 @@ public class Main {
                   }
                   while(con<n);
                   System.out.println();
-                  System.out.println("La suma de los Términos es : "+sum);
+                  System.out.println("La suma es : "+sum);
       }
 }
